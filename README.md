@@ -1,1 +1,1 @@
-# JavaScript
+JavaScript First classes
